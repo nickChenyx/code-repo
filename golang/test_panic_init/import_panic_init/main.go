@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "example.com/import_panic_init/a"
+	_ "a"
 	"fmt"
 	_ "panic_init"
 	"util"
